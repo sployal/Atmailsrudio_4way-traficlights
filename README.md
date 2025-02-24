@@ -3,17 +3,21 @@
 ## Overview
 This project implements a **4-way traffic light control system** using an **ATmega32 microcontroller**. The code is written in **Atmel Studio** and simulated in **Proteus**.
 
-## Features
-- Controls traffic lights for four different directions.
-- Implements timing for red, yellow, and green lights.
-- Simulated in **Proteus** for validation.
-- Efficient and structured **C code** for the microcontroller.
+
 
 ## Circuit Diagram
 Below is an image of the complete project setup in Proteus:
 
 ![Project Simulation](./images/image1.png)
 *This image shows the Proteus simulation of the 4-way traffic light system, including the ATmega32 microcontroller, LEDs for traffic signals, and timing sequences for different directions.*
+
+
+
+## Features
+- Controls traffic lights for four different directions.
+- Implements timing for red, yellow, and green lights.
+- Simulated in **Proteus** for validation.
+- Efficient and structured **C code** for the microcontroller.
 
 ## Requirements
 ### Hardware:
